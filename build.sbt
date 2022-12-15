@@ -2,7 +2,7 @@ name := "renovate-issue"
 
 version := "0.1"
 
-scalaVersion := "2.12.17"
+scalaVersion := "2.13.10"
 
 val jacksonVersion = "2.13.4"
 val jacksonDatabindVersion = "2.13.4.2"
