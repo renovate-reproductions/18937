@@ -4,8 +4,8 @@ version := "0.1"
 
 scalaVersion := "2.12.17"
 
-val jacksonVersion = "2.13.4"
-val jacksonDatabindVersion = "2.13.4.2"
+val jacksonVersion = "2.14.1"
+val jacksonDatabindVersion = "2.14.1.2"
 val scalaTestPlusMockitoVersion = "3.2.14.0"
 
 libraryDependencies ++= Seq(
